@@ -1,0 +1,12 @@
+{
+  "name": "sub2shokh-biolink",
+  "version": "1.0.0",
+  "description": "Sub2Shokh bio link page",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
